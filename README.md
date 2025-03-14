@@ -111,12 +111,6 @@ The models are evaluated using the following metrics:
 - **Recall** – Measures the proportion of actual shoplifting cases that were correctly predicted.  
 - **F1-Score** – Harmonic mean of Precision and Recall.  
 
-### **Performance Comparison**  
-| Model | Accuracy | Precision | Recall | F1-Score |  
-|-------|----------|-----------|--------|----------|  
-| I3D Model | TBD | TBD | TBD | TBD |  
-| CNN + BiLSTM | TBD | TBD | TBD | TBD |  
-| Hybrid 3D CNN + LSTM | TBD | TBD | TBD | TBD |  
 
 ---
 
