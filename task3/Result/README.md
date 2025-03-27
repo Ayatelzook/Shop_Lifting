@@ -99,11 +99,14 @@ Screenshot of the video upload page:
 ---
 
 ### ✅ 2. Prediction Result  
-Example of a successful prediction (Non-Shop Lifting):  
-![Prediction Result](https://github.com/user-attachments/assets/be58b69d-7928-4e26-af6a-b3f53649fd5c)
+**Example of a successful prediction:**  
 
-Example of a successful prediction (Shop Lifting):
-![Prediction Result](https://github.com/user-attachments/assets/d6f66ffe-33dd-4dfa-b1d1-f35408d10005)
+- **Shop Lifter:**  
+![Shop Lifter](https://github.com/user-attachments/assets/d6f66ffe-33dd-4dfa-b1d1-f35408d10005)  
+
+- **Non Shop Lifter:**  
+![Non Shop Lifter](https://github.com/user-attachments/assets/be58b69d-7928-4e26-af6a-b3f53649fd5c) 
+
 ---
 
 
