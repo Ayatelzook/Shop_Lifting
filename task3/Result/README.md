@@ -93,17 +93,17 @@ Here’s an example of the web interface and prediction results:
 
 ### 🖼️ 1. Upload Interface  
 Screenshot of the video upload page:  
-![Upload Interface](![1](https://github.com/user-attachments/assets/78e5b280-4109-4500-b68b-a8458da0a7c7)
+![Upload Interface]((https://github.com/user-attachments/assets/78e5b280-4109-4500-b68b-a8458da0a7c7)
 )  
 
 ---
 
 ### ✅ 2. Prediction Result  
 Example of a successful prediction (Non-Shop Lifting):  
-![Prediction Result](![2](https://github.com/user-attachments/assets/be58b69d-7928-4e26-af6a-b3f53649fd5c)
+![Prediction Result]((https://github.com/user-attachments/assets/be58b69d-7928-4e26-af6a-b3f53649fd5c)
 )  
 Example of a successful prediction (Shop Lifting):
-![Prediction Result](![3](https://github.com/user-attachments/assets/d6f66ffe-33dd-4dfa-b1d1-f35408d10005)
+![Prediction Result]((https://github.com/user-attachments/assets/d6f66ffe-33dd-4dfa-b1d1-f35408d10005)
 )
 ---
 
