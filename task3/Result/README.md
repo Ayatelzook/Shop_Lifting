@@ -93,8 +93,8 @@ Here’s an example of the web interface and prediction results:
 
 ### 🖼️ 1. Upload Interface  
 Screenshot of the video upload page:  
-![Upload Interface]((https://github.com/user-attachments/assets/78e5b280-4109-4500-b68b-a8458da0a7c7)
-)  
+![Upload Interface](https://github.com/user-attachments/assets/78e5b280-4109-4500-b68b-a8458da0a7c7)
+ 
 
 ---
 
